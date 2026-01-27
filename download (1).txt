@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Equiduct</title>
+	<atom:link href="https://www.equiduct.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.equiduct.com/</link>
+	<description></description>
+	<lastBuildDate>Mon, 26 Jan 2026 09:36:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.equiduct.com/wp-content/uploads/2024/09/img-contact-us-pilar-3.png</url>
+	<title>Equiduct</title>
+	<link>https://www.equiduct.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Carl’s Weekly View &#124; Week 5, 2026</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-5-2026/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-5-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 09:36:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15502</guid>
+
+					<description><![CDATA[<p>Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-5-2026/">Carl’s Weekly View | Week 5, 2026</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" />Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Was marginally quieter than the week before with turnover of €2.7billion. The week started with fresh tariff volatility over Greenland before slowing a little then peaking on Thursday after Trump again backed down.</p>
+<p style="font-weight: 400;">I’m not one to say “I told you so!” but last week I very much did tell you so if you remember:</p>
+<p style="font-weight: 400;">“So there is definitely the possibility of volatility in European markets on Monday morning. It’s quite difficult to gauge to what extent markets will react at this point. Firstly, the tariffs wont come in to affect until the 1<sup>st</sup> of February which means the TACO trade (Trump Always Chickens Out) has to be a possibility. Q1 2025 saw tariffs being threatened on countries left right and centre causing widespread volatility in markets. However, the threat of tariffs turned out to be a negotiation tactic as the tariffs that ended up being imposed were far less than first anticipated in the majority of cases.</p>
+<p style="font-weight: 400;">A pattern has emerged of Trump making threats on a range of different topics, only to be persuaded to change his mind or to limit the threatened consequences if he thinks he has got a deal in his favour.”</p>
+<p style="font-weight: 400;">Markets saw two days of back-to-back losses with US indices experiencing their biggest one day drop in three months on Tuesday. The rally came on Thursday after Trump’s U-turn on tariffs on Wednesday night.</p>
+<p style="font-weight: 400;">BBVA and ASML were again the most traded stocks. We also had a Dutch IPO last week as Czech defence firm CSG launched on the Amsterdam stock market and were the 7<sup>th</sup> most traded stock on Equiduct on Friday.</p>
+<p style="font-weight: 400;">Nordic markets were busier than usual last week due to a number of them being threatened with Traiffs by Trump. Stockholm was particularly well traded.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Has all the ingredients to be busy again. The main economic event this week is the US interest rate decision after the close on Wednesday. Usually, we’d expect to see slightly subdued trading on the day of the decision as investors await the outcome. However, analysts have it priced as a 95% chance rates are held this time so investors may not feel the need to be so cautious.</p>
+<p style="font-weight: 400;">We are in the heart of the Q4 earnings season now and this is likely to be the main driver of volatility this week. The big US tech companies Apple, Meta, Microsoft and Tesla all release updates this week. Oil industry giants Exxon Mobil and Chevron release results on Friday. In Europe, some of Equiduct’s most traded stocks are also due to announce results including ASML, ING, Sanofi and Caixa.</p>
+<p style="font-weight: 400;">Growth figures are also due for a range of European markets on Friday including Spain, Germany, Italy and France. Plenty of potential for volatility this week then and that’s ignoring the chance of Donald Trump coming up with something new to rock the markets before next weekend.</p>
+<p style="font-weight: 400;">Equiduct will almost certainly reach a new milestone this week as we are bang on course for a record turnover month. The previous record was a little over €11billion set back in October last year. If average daily volumes continue as they have been then we could smash that figure by a billion euros come Friday.</p>
+<p style="font-weight: 400;">We still await the Supreme Court’s ruling on the legality of Trump’s Tariffs whilst geopolitical tensions continue to bubble away in several different locations around the world.</p>
+<p style="font-weight: 400;">Will the FED spring a surprise this week and cut rates? What will Trump’s next move be with Greenland? Will he pivot back to Iran or South America this week? It should be another interesting week ahead.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all from me, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-5-2026/">Carl’s Weekly View | Week 5, 2026</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-5-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 4, 2026</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-4-2026/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-4-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 09:18:42 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15484</guid>
+
+					<description><![CDATA[<p>Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-4-2026/">Carl’s Weekly View | Week 4, 2026</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" />Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Saw more positive momentum for European markets with the STOXX 600 up 0.9% on the week.</p>
+<p style="font-weight: 400;">Volumes didn’t hit the heights of the previous week but we still managed a very healthy €2.8billion on Equiduct.</p>
+<p style="font-weight: 400;">It’s been a fantastic start to 2026 so far with average daily volumes up 73% on January 2025!</p>
+<p style="font-weight: 400;">BBVA continues to be the most popular stock although ASML again came very close to top spot.</p>
+<p style="font-weight: 400;">Amsterdam had another busy week on Equiduct with ASML the most traded stock on both Thursday and Friday after TSMC (an important producer of advanced chips) posted strong Q4 results.</p>
+<p style="font-weight: 400;">Away from the main markets, Swiss stocks had a busy week with a new turnover record on Equiduct being set on Wednesday.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Is a tricky one to weigh up for investors. For a start, Monday is a US holiday and markets will be closed for Martin Luther King day. This often results in subdued trading volumes in European markets.</p>
+<p style="font-weight: 400;">However, Donald Trump doesn’t like to let a weekend pass without doing something dramatic. This weekend was no different as he threatened tariffs on European countries who do not share his vision for a US acquisition of Greenland.</p>
+<p style="font-weight: 400;">So there is definitely the possibility of volatility in European markets on Monday morning. It’s quite difficult to gauge to what extent markets will react at this point. Firstly, the tariffs wont come in to affect until the 1<sup>st</sup> of February which means the TACO trade (Trump Always Chickens Out) has to be a possibility. Q1 2025 saw tariffs being threatened on countries left right and centre causing widespread volatility in markets. However, the threat of tariffs turned out to be a negotiation tactic as the tariffs that ended up being imposed were far less than first anticipated in the majority of cases.</p>
+<p style="font-weight: 400;">A pattern has emerged of Trump making threats on a range of different topics, only to be persuaded to change his mind or to limit the threatened consequences if he thinks he has got a deal in his favour.</p>
+<p style="font-weight: 400;">This makes it very difficult to know how much to read into what he says. Markets have been reacting with less extreme swings as they have got used to his outbursts.</p>
+<p style="font-weight: 400;">Q4 earnings season also starts to ramp up a little this week with Bankinter and LVMH, two popular Equiduct stocks, releasing results this week.</p>
+<p style="font-weight: 400;">The Supreme Court’s ruling on the legality of Trump’s Tariff is due imminently and has the potential to jolt markets. Will it be this week?</p>
+<p style="font-weight: 400;">Developments in Iran will again be closely watched with the possibility of US involvement which would have wider ramifications for the middle east and world markets.</p>
+<p style="font-weight: 400;">Plenty to weigh up this week then. I think it will be another busy week ahead.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all from me, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-4-2026/">Carl’s Weekly View | Week 4, 2026</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-4-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 3, 2026</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-3-2026/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-3-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Sun, 11 Jan 2026 22:56:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15468</guid>
+
+					<description><![CDATA[<p>Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-3-2026/">Carl’s Weekly View | Week 3, 2026</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" />Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Was one for the bulls with markets, including the FTSE 100, IBEX35 and DAX40, hitting record highs.</p>
+<p style="font-weight: 400;">Trading on Equiduct got off to a great start with the first full week of 2026 seeing volumes exceeding €3.1billion!</p>
+<p style="font-weight: 400;">The week started strongly with over €700million traded on Monday and that momentum carried on throughout the week.</p>
+<p style="font-weight: 400;">Amsterdam was particularly busy with ASML being the most traded stock on Monday, Tuesday and Friday, partially thanks to analyst upgrades.</p>
+<p style="font-weight: 400;">That wasn’t enough to knock BBVA off top spot however, although it was very close last week.</p>
+<p style="font-weight: 400;">Repsol was the third most traded stock with the energy sector seeing volatility across the board thanks to the weekend’s events in Venezuela. Oil prices fell 1% before recovering later in the week.</p>
+<p style="font-weight: 400;">Weapons manufacturers were heavily traded again.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Will do well to match last week, but at the same time, I wouldn’t bet too heavily against it.</p>
+<p style="font-weight: 400;">The Q4 earnings season will kick off on Tuesday when several US banks begin releasing results.</p>
+<p style="font-weight: 400;">This alone has the potential to spark volatility but then we also have US inflation data, a CPI update and the monthly retail sales figures.</p>
+<p style="font-weight: 400;">In the background, geopolitical tensions continue to bubble away with Cuba now joining Greenland in Donald Trump’s sights. Protests in Iran also continue to escalate and US intervention has been threatened as a possibility by Trump.</p>
+<p style="font-weight: 400;">Another upcoming event with considerable potential to rock markets is the Supreme Court’s ruling on the legality of Trump’s Tariffs.</p>
+<p style="font-weight: 400;">This was a major source of volatility in 2025 and if the tariffs are ruled illegal then more market turmoil could follow. A decision is expected imminently.</p>
+<p style="font-weight: 400;">Will the bulls have their way again this week? Could inflation data throw a spanner in the works? Who might fall under Trumps’s gaze next? Let’s see how the week unfolds.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all from me, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-3-2026/">Carl’s Weekly View | Week 3, 2026</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-3-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 2, 2026</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-2-2026/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-2-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Sun, 04 Jan 2026 23:54:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15419</guid>
+
+					<description><![CDATA[<p>Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-2-2026/">Carl’s Weekly View | Week 2, 2026</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" /></p>
+<p style="font-weight: 400;">Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Brought 2025 to a close and also saw the first day of trading in 2026. Happy new year to you all!</p>
+<p style="font-weight: 400;">2025 was a bumper year for stock markets and a record year for Equiduct with turnover of €108billion.</p>
+<p style="font-weight: 400;">The last few days of 2025 were relatively quiet before 2026 got off to a great start with high volumes on Friday.</p>
+<p style="font-weight: 400;">Madrid was traded strongly throughout December and turned over double our next best market, Paris, last week.</p>
+<p style="font-weight: 400;">BBVA was once again our most traded stock but was beaten into second by Santander on Monday and pushed close by ASML on Friday.</p>
+<p style="font-weight: 400;">We also saw high turnover in the weapons manufacturers on Friday and they are likely to be popular stocks again in Q1 2026.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Could well begin how last week finished, with heightened volatility and strong trading volumes.</p>
+<p style="font-weight: 400;">It will be interesting to see what the markets make of the US intervention in Venezuela over the weekend.</p>
+<p style="font-weight: 400;">Donald Trump was the catalyst for much of the volatility experienced by markets in 2025 with Tariff shocks, followed by U-turns, followed by further tariff shocks.</p>
+<p style="font-weight: 400;">The weekend witnessed a bold move from Trump in South America and one which will surely cause geopolitical shockwaves to reverberate around the world in the coming weeks and months.</p>
+<p style="font-weight: 400;">The uncertainty this has created in so many different arenas is sure to mean one thing for markets, volatility!</p>
+<p style="font-weight: 400;">The economic calendar for the week ahead includes unemployment figures from several Eurozone countries along with Inflation updates.</p>
+<p style="font-weight: 400;">In the US we will find out more about the strength of the US jobs market when ADP and Non farms payroll figures are released later in the week.</p>
+<p style="font-weight: 400;">Q1 is often the busiest quarter of the year for trading on Equiduct and I’m expecting a busy start to the year across all our thirteen markets.</p>
+<p style="font-weight: 400;">Will Donald Trump be the main cause of volatility this week or will US jobs figures cause more of a stir? Will other news break in the Middle East or in the Russia/Ukraine conflict that overshadows everything else? Will AI worries resurface early in 2026 to spook markets? There are so many factors to consider at the moment. It’s sure to be an interesting start to the year.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all from me, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-2-2026/">Carl’s Weekly View | Week 2, 2026</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-2-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 51, 2025</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-51-2025/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-51-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 01:30:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15379</guid>
+
+					<description><![CDATA[<p>Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-51-2025/">Carl’s Weekly View | Week 51, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" />Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Was action packed in terms of the Economic events calendar and turnover figures weren’t bad at all.</p>
+<p style="font-weight: 400;">We had US jobs and inflation data along with interest rate decisions from the Bank of England, ECB and Japan.</p>
+<p style="font-weight: 400;">Equiduct turnover was up towards €2.2billion for the week which was higher than expected for this time of year.</p>
+<p style="font-weight: 400;">Madrid was comfortably clear as the most traded market again fuelled by the high volumes we’ve seen traded in BBVA throughout Q4.</p>
+<p style="font-weight: 400;">BBVA was the most traded stock last week everyday bar Wednesday when ASML narrowly edged top spot.</p>
+<p style="font-weight: 400;">Tuesday saw a spike in activity in weapons companies with more talk of a possible peace deal between the Ukraine and Russia.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Will be truncated by the Christmas holiday period.</p>
+<p style="font-weight: 400;">We will be light on Economic events but the main question will be whether the Santa Claus Rally comes to town this year.</p>
+<p style="font-weight: 400;">The Santa Claus Rally traditionally occurs over the last five days of December and the first two days of January trading.</p>
+<p style="font-weight: 400;">During this period, markets have risen 80% of the time since 1950.</p>
+<p style="font-weight: 400;">Markets were buoyed last week by better-than-expected US inflation data which pointed towards more interest rate cuts early in 2026.</p>
+<p style="font-weight: 400;">Many analysts acknowledge however that much of this data was skewed by the recent US government shutdown and subsequent data blackout.</p>
+<p style="font-weight: 400;">The forecast for the next couple of weeks therefore remains cloudy. A potential Santa Claus Rally and optimism around the latest economic data from the US is counterbalanced by ongoing fears around perceived overvaluation of the tech sector.</p>
+<p style="font-weight: 400;">Is Santa Claus coming to town? Is it time to dump your tech stocks? A relatively quiet week is expected but what if somebody feeds their Mogwai after midnight? Market Gremlins could emerge at any moment. Have a great Christmas and a prosperous new year!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all folks, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-51-2025/">Carl’s Weekly View | Week 51, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-51-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 50, 2025</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-50-2025/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-50-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 02:06:54 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15360</guid>
+
+					<description><![CDATA[<p>Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-50-2025/">Carl’s Weekly View | Week 50, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" /></p>
+<p style="font-weight: 400;">Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Was an eventful one. The S&amp;P 500 and Dow Jones hit record highs, there was a bidding war for Warner Brothers, we saw a US interest rate cut and a weaker than expected update from Oracle spooked tech stocks.</p>
+<p style="font-weight: 400;">It was a relatively quiet start to the week but momentum grew as the week progressed. Whilst the US interest rate cut was mostly priced in, there was still some lingering doubt which resulted in investors keeping their powder dry until after the announcement. Consequently, we saw strong turnover figures for December on Thursday and Friday.</p>
+<p style="font-weight: 400;">Paris was the most traded market on Equiduct on Monday and Tuesday before volatility in Madrid picked up and saw Spain reclaim top spot from Wednesday through to Friday.</p>
+<p style="font-weight: 400;">BBVA continued its strong trading performance in Q4 and was once again the most traded stock on Equiduct last week, peaking on Thursday with turnover of over €30million.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Is jam packed with Economic events and could well see strong levels of trading activity.</p>
+<p style="font-weight: 400;">We have the latest ZEW Economic Index update from Germany, US Jobs, inflation and retail figures along with interest rate decisions from the Bank of England, ECB and Japan.</p>
+<p style="font-weight: 400;">Any strong deviations from analyst forecasts from any of these events could potentially trigger a wave of volatility.</p>
+<p style="font-weight: 400;">The extended blackout period for US data means that inflation figures, jobs numbers and retail sales updates will all be very closely watched this week.</p>
+<p style="font-weight: 400;">Could last week’s Oracle update be the start of fresh AI anxiety? Is the US economy where analysts think it is? Will we see a Santa Claus Rally this week? It should be an interesting week ahead.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all folks, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-50-2025/">Carl’s Weekly View | Week 50, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-50-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 48, 2025</title>
+		<link>https://www.equiduct.com/15327-2/</link>
+					<comments>https://www.equiduct.com/15327-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2025 08:24:08 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15327</guid>
+
+					<description><![CDATA[<p>&#160; Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/15327-2/">Carl’s Weekly View | Week 48, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" /></p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Was the slowest week in quite a while.</p>
+<p style="font-weight: 400;">With Q3 earnings season out of the way and less tech sector volatility, trading volumes struggled to hit the heights of previous weeks.</p>
+<p style="font-weight: 400;">The Thanksgiving holiday in the US was a large factor and this is often a subdued week in the markets.</p>
+<p style="font-weight: 400;">All the main indices in the US and Europe finished up last week with growing confidence in a US rate cut in December the main driver.</p>
+<p style="font-weight: 400;">A couple of weeks ago it looked less than a 50% chance but analysts now feel a rate cut is closer to an 80% probability on the back of soft US Economic data.</p>
+<p style="font-weight: 400;">Although volumes were lower, it was still a fantastic week for Equiduct as a major milestone was reached.</p>
+<p style="font-weight: 400;">Turnover for the year reached €100billion for the first time with a month to spare!</p>
+<p style="font-weight: 400;">Madrid was dominant again and BBVA continued its run as most traded stock on Equiduct.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Welcomes the first week of December and the beginning of the festive season.</p>
+<p style="font-weight: 400;">December can sometimes be a quieter month volume wise but there is plenty of potential for volatility this month.</p>
+<p style="font-weight: 400;">Peace talks are ongoing between the Ukraine and Russia and if an agreement can be reached there are all sorts of implications for Oil prices and defence companies.</p>
+<p style="font-weight: 400;">Two of the top ten traded stocks on Equiduct last week were weapons manufacturers and I wouldn’t be surprised to see them there again next week.</p>
+<p style="font-weight: 400;">There was less AI chatter last week but that elephant in the room is still there and it won’t take a lot to spook markets again.</p>
+<p style="font-weight: 400;">US ISM survey results are due out this week along with ADP private payrolls and they will be heavily scrutinised to see if they increase or decrease the chances of a rate cut.</p>
+<p style="font-weight: 400;">In Europe, Eurozone inflation figures are due but are likely to carry less weight with the last rate cut all the way back in June and another is not expected this year.</p>
+<p style="font-weight: 400;">Will markets get off to a winning start in December? Will AI volatility return this week? Will we be talking about something completely different next week? Let’s see, it could be an interesting week.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all folks, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/15327-2/">Carl’s Weekly View | Week 48, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/15327-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 47, 2025</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-47-2025/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-47-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 10:18:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15302</guid>
+
+					<description><![CDATA[<p>&#160; Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-47-2025/">Carl’s Weekly View | Week 47, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" /></p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Wasn’t as busy as it might have been.</p>
+<p style="font-weight: 400;">NVIDIA’s results were the focus of the week. Despite posting record quarterly earnings figures and initially climbing, the stock somehow ended up down on the week.</p>
+<p style="font-weight: 400;">Consequently, tech stocks had another busy week as did defence companies who were impacted by a new peace plan being floated between Russia and Ukraine.</p>
+<p style="font-weight: 400;">Weapons company Rheinmetall was the sixth most traded stock on Equiduct and dropped over 12% over the course of the week.</p>
+<p style="font-weight: 400;">Madrid is the most traded market on Equiduct this year. It started last week strongly and was the most traded market Monday through to Wednesday before losing top spot to Paris on Thursday and only narrowly coming out ahead on Friday.</p>
+<p style="font-weight: 400;">BBVA was the most traded stock again last week but by less than €10million as trading in ASML finished the week strongly thanks to the NVIDIA fuelled volatility.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Is an exciting one for Equiduct. We are on course to break the €100billion turnover mark for the first time in a calendar year, and with a month to spare.</p>
+<p style="font-weight: 400;">€350million ADV is required and with the worst day this month so far being €375million, we are hopeful of reaching the landmark before the weekend.</p>
+<p style="font-weight: 400;">US markets will be closed for thanksgiving on Thursday so it is likely to be a subdued end to the week. There is plenty of potential for volatility before the holiday however.</p>
+<p style="font-weight: 400;">A raft of different Economic data is due to be released in the US on Wednesday and there is also the new budget update in the UK.</p>
+<p style="font-weight: 400;">Investors in defence stocks will be watching developments closely between Russia and the Ukraine and if a peace deal starts to look likely then expect those stocks to fall further.</p>
+<p style="font-weight: 400;">AI anxiety is sure to be a factor again this week. Many would have expected the results that NVIDIA released to lead to a bullish end to the week for tech stocks.</p>
+<p style="font-weight: 400;">The root cause of the uncertainty is the sky-high levels of investment by some of the biggest companies in the world and that this investment is increasingly being debt financed.</p>
+<p style="font-weight: 400;">NVIDIA’s stellar results therefore did nothing to alleviate these fears as all they did was confirm that there is indeed still huge demand for their chips as these companies continue to pour huge sums into the technology. A correction, and possibly a large one, is still expected unless major breakthroughs are forthcoming in the near future. Will we see this breakthrough before Christmas? Could a news story unfold this week that causes the first tech domino to fall? It could be another interesting week.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all folks, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-47-2025/">Carl’s Weekly View | Week 47, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-47-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 46, 2025</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-46-2025/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-46-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 08:46:26 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15294</guid>
+
+					<description><![CDATA[<p>&#160; Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-46-2025/">Carl’s Weekly View | Week 46, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" /></p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Finally saw the longest US government shut down in history come to an end.</p>
+<p style="font-weight: 400;">It was a bullish week for European markets with Madrid, Paris and Milan all recording gains.</p>
+<p style="font-weight: 400;">We saw increased Italian activity as the MIB40 climbed above 44,000 (a 30% increase in 2025) before dipping back below by end of day on Friday.</p>
+<p style="font-weight: 400;">The Spanish market again dominated trading on Equiduct, turning over a billion euros and contributing heavily to weekly turnover of €2.5billion.</p>
+<p style="font-weight: 400;">BBVA was the most popular stock for the second week in a row occupying top spot from Monday through to Friday with ADV of €45 million.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Is likely to be dominated by behemoth NVIDIA’s Q3 results which are released on Wednesday.</p>
+<p style="font-weight: 400;">With so much anxiety around the valuations of tech stocks, any sort of significant deviation from analyst’s expectations could send ripples through the markets.</p>
+<p style="font-weight: 400;">Investor Michael Burry of “Big Short” fame has been critical of tech valuations in recent weeks and declared last week that &#8220;My estimation of value in securities is not now, and has not been for some time, in sync with the markets&#8221;.</p>
+<p style="font-weight: 400;">We should start to see some US government data being released later in the week now the shutdown has ended. The lack of clarity has lent weight to the possibility that a US rate cut next month might not materialise. Minutes of the previous meeting will be released this week which should give a better steer to investors.</p>
+<p style="font-weight: 400;">There have been so many different events this year already that have caused shockwaves in the markets. From Trumps’s Tariffs, government shutdowns, regional wars, political upheaval etc etc It almost feels like we can expect something new to happen every week. It’s a very interesting time for financial markets. Which will it go this week?</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all folks, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-46-2025/">Carl’s Weekly View | Week 46, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-46-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Carl’s Weekly View &#124; Week 45, 2025</title>
+		<link>https://www.equiduct.com/carls-weekly-view-week-45-2025/</link>
+					<comments>https://www.equiduct.com/carls-weekly-view-week-45-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Angie Labiaga]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2025 23:52:19 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.equiduct.com/?p=15281</guid>
+
+					<description><![CDATA[<p>&#160; Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week. My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data [&#8230;]</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-45-2025/">Carl’s Weekly View | Week 45, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img decoding="async" class="wp-image-7079 alignleft" src="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png" alt="" width="167" height="211" srcset="https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN-238x300.png 238w, https://www.equiduct.com/wp-content/uploads/2025/04/CARL-ROGAN.png 709w" sizes="(max-width: 167px) 100vw, 167px" /></p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">Hi, my name is Carl Rogan and every Monday morning I will be bringing you my views of what happened during the previous week and what to look out for in the coming week.</p>
+<p style="font-weight: 400;">My views are my own and they do not constitute investment advice. My views are derived from Equiduct’s unique data set which represents a clean retail signal free of distortion from institutional investors and therefore are telling of what the sentiment of European retail investors is.</p>
+<p style="font-weight: 400;">Without further ado, let’s dive right into it!</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>Last week …</strong></p>
+<p style="font-weight: 400;">Was light on major economic news but still saw high levels of turnover as November got off to a solid start.</p>
+<p style="font-weight: 400;">It was a bearish week for European markets with the Stoxx 600 recording its biggest two-week loss since September.</p>
+<p style="font-weight: 400;">Uncertainty about high stock valuations, particularly in tech stocks which saw a sell off over the week, along with the uncertainty caused by the ongoing US government shutdown, were seen as the prime causes.</p>
+<p style="font-weight: 400;">The Bank of England kept interest rates unchanged but only by 5 votes to 4, suggesting a December cut could be on the way.</p>
+<p style="font-weight: 400;">In the US Elon Musk was smiling as he was awarded the biggest corporate pay package in history, potentially worth a trillion dollars in stock!</p>
+<p style="font-weight: 400;">Equiduct turned over €2.3billion last week, mainly fuelled by the Spanish market which occupied top spot every day of the week.</p>
+<p style="font-weight: 400;">Madrid turned over just short of a billion which was 42% of Equiduct turnover.</p>
+<p style="font-weight: 400;">BBVA was the most traded stock of the week, narrowly beating Telefonica who announced Q3 results on Tuesday morning and were consequently our most traded stock on Tuesday and Wednesday.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;"><strong>This week …</strong></p>
+<p style="font-weight: 400;">Looks like a quieter week on paper with highlights being UK GDP figures, an update to the German ZEW index and potential US inflation numbers.</p>
+<p style="font-weight: 400;">It is a public holiday in Madrid on Monday so the Spanish market is likely to be quieter.</p>
+<p style="font-weight: 400;">A new US government shutdown record was set last week as it passed the previous 35 day record set during Donald Trump’s first term.</p>
+<p style="font-weight: 400;">This is causing quite a headache for investors who are, to quote Jerome Powell “driving in the fog”. Without official government data it is increasingly difficult to have confidence in the health of the US economy.</p>
+<p style="font-weight: 400;">If a resolution is reached this week I’d expect to see a boost in stock market activity.</p>
+<p style="font-weight: 400;">Q3 results season is coming to an end now but we still have a few stragglers due to announce this week, including Bayer and a number of companies towards the bottom end of our top 100 traded stocks.</p>
+<p style="font-weight: 400;">Will the tech sell off continue this week? It’s an interesting question as there is still huge uncertainty over how big the benefits of AI will actually be.</p>
+<p style="font-weight: 400;">We could be on the verge of a crash to rival the dotcom crash of the 90s OR, major breakthroughs could be just around the corner and in years to come people will look back at today’s stock prices and lament how cheap they were.</p>
+<p>&nbsp;</p>
+<p style="font-weight: 400;">That’s all folks, until next week… Happy investing!</p>
+<p style="font-weight: 400;">Carl</p>
+<p>La entrada <a href="https://www.equiduct.com/carls-weekly-view-week-45-2025/">Carl’s Weekly View | Week 45, 2025</a> se publicó primero en <a href="https://www.equiduct.com">Equiduct</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.equiduct.com/carls-weekly-view-week-45-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

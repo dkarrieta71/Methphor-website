@@ -1,0 +1,1 @@
+gform.initializeOnLoaded(function(){jQuery(document).on('gform_post_render',function(event,formId,currentPage){if(formId==3){if(typeof Placeholders!='undefined'){Placeholders.enable()}}});jQuery(document).on('gform_post_conditional_logic',function(event,formId,fields,isInit){})})
