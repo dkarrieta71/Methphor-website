@@ -1102,6 +1102,29 @@
         }
       }
 
+      .coin-home {
+        transition: right 0.35s ease, bottom 0.35s ease, height 0.35s ease,
+          filter 0.35s ease;
+        pointer-events: auto;
+        cursor: pointer;
+        z-index: 5;
+      }
+
+      .hero-effect svg,
+      .hero-effect canvas,
+      .hero-effect .pilar-1-container,
+      .hero-effect .pilar-1-wrapper,
+      .hero-effect .pilar-2-wrapper {
+        pointer-events: none;
+      }
+
+      .coins-slot {
+        position: absolute;
+        inset: 0;
+        z-index: 4;
+        pointer-events: none;
+      }
+
       .coin-1 {
         height: 180px !important;
       }
@@ -1857,7 +1880,69 @@
                               if (!sets.length) return;
                               var idx = Math.floor(Math.random() * sets.length);
                               var slot = document.getElementById("coins-slot");
-                              if (slot) slot.innerHTML = sets[idx];
+                              if (slot) {
+                                slot.innerHTML = sets[idx];
+                                var coins = slot.querySelectorAll(".coin-home");
+                                var lastSwapPair = null;
+
+                                function getCoinClass(el) {
+                                  var targetClass = null;
+                                  el.classList.forEach(function (cls) {
+                                    if (/^coin-\d+$/.test(cls)) targetClass = cls;
+                                  });
+                                  return targetClass;
+                                }
+
+                                function swapWithCoin1(coin) {
+                                  if (!coin || coin.classList.contains("coin-1"))
+                                    return;
+                                  var coin1 = slot.querySelector(
+                                    ".coin-home.coin-1"
+                                  );
+                                  if (!coin1) return;
+                                  var targetClass = getCoinClass(coin);
+                                  if (
+                                    !targetClass ||
+                                    targetClass === "coin-1"
+                                  )
+                                    return;
+                                  var pairKey = ["coin-1", targetClass]
+                                    .sort()
+                                    .join("|");
+                                  if (pairKey === lastSwapPair) return;
+                                  coin1.classList.remove("coin-1");
+                                  coin1.classList.add(targetClass);
+                                  coin.classList.remove(targetClass);
+                                  coin.classList.add("coin-1");
+                                  lastSwapPair = pairKey;
+                                }
+
+                                coins.forEach(function (coin) {
+                                  coin.addEventListener("mouseenter", function () {
+                                    swapWithCoin1(coin);
+                                  });
+                                });
+
+                                document.addEventListener(
+                                  "mousemove",
+                                  function (e) {
+                                    var hovered = null;
+                                    coins.forEach(function (coin) {
+                                      var rect = coin.getBoundingClientRect();
+                                      if (
+                                        e.clientX >= rect.left &&
+                                        e.clientX <= rect.right &&
+                                        e.clientY >= rect.top &&
+                                        e.clientY <= rect.bottom
+                                      ) {
+                                        hovered = coin;
+                                      }
+                                    });
+                                    swapWithCoin1(hovered);
+                                  },
+                                  { passive: true }
+                                );
+                              }
                             } catch (e) {}
                           })();
                         </script>
