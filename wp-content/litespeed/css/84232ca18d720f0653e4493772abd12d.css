@@ -171,9 +171,19 @@ body.rtl .elementor-2 .elementor-element.elementor-element-8412e19
 .elementor-2 .elementor-element.elementor-element-834d79b .elementor-heading-title
 {
   font-family:"Avenir",Sans-serif;
-  font-size:65px;
+  font-size:35px;
   font-weight:700;
-  color:var(--e-global-color-secondary)
+  color: #ffb533;
+  /* color:var(--e-global-color-secondary) */
+}
+.wwd-text-container {
+    font-size: 20px; 
+    width: 70%; 
+    margin: 0 auto; 
+    margin-top: 50px;
+    text-align: center;
+    line-height: 1.5;
+    color: white;
 }
 .elementor-2 .elementor-element.elementor-element-ca7cd61
 {

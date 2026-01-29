@@ -48,7 +48,7 @@ b,strong
 }
 .title-blue span
 {
-  color:#7cffea
+  color:#ffb533
 }
 .gform-theme .gform_fields
 {
@@ -548,7 +548,7 @@ b,strong
 }
 .subtitle .elementor-heading-title
 {
-  border:solid 1px #7cffea;
+  border:solid 1px #ffb533;
   border-radius:15px;
   padding:3px 20px;
   padding-left:40px;
@@ -561,7 +561,7 @@ b,strong
   content:"";
   width:16px;
   height:16px;
-  background:#7cffea;
+  background:#ffb533;
   position:absolute;
   left:12px;
   top:9px;
@@ -571,7 +571,7 @@ b,strong
 {
   0%
   {
-    background:#7cffea
+    background:#ffb533
   }
   100%
   {
@@ -2625,7 +2625,7 @@ body:not(.elementor-editor-active) .md-line-container .md-line-images .md-line-i
 }
 .elementor-widget-search .e-search-input:active,.elementor-widget-search .e-search-input:focus
 {
-  border-color:#7cffea!important
+  border-color:#ffb533!important
 }
 .elementor-widget-search .e-search-input::-webkit-input-placeholder
 {
@@ -3567,7 +3567,7 @@ body:not(.home) .elementor-location-footer:after
   z-index:1;
   bottom:calc(var(--bottom) - 455px);
   pointer-events:none;
-  background:linear-gradient(180deg,#fff0 2.03%,rgb(124 255 239 / .09) 10.93%,rgb(124 255 239 / .21) 21.95%,rgb(124 255 239 / .49) 34.64%,#7CFFEF 44.85%)
+  background:linear-gradient(180deg,#fff0 2.03%,rgb(255 80 80 / .09) 10.93%,rgb(255 80 80 / .21) 21.95%,rgb(255 80 80 / .49) 34.64%,#FF5050 44.85%)
 }
 .elementor-location-footer *
 {
@@ -3745,7 +3745,7 @@ body:not(.home) .elementor-location-footer:after
 }
 .hero .hero-breadcrumbs a,.hero .hero-breadcrumbs span
 {
-  color:#7cffea;
+  color:#ffb533;
   font-size:12px;
   font-weight:700
 }
