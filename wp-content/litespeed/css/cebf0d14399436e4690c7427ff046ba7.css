@@ -834,7 +834,7 @@ body:not(.elementor-editor-active) .hero-effect.anim svg path
 }
 body:not(.elementor-editor-active) .hero-effect .pilar-1
 {
-  width:153px;
+  width:233px;
   height:-moz-fit-content;
   height:fit-content;
   translate:-50% -50%;
@@ -2987,7 +2987,7 @@ header:after
 .elementor-location-header .sub-menu:after
 {
   content:"";
-  background:rgb(255 255 255 / .0784313725)!important;
+  background:#7c0d0d3d!important;
   border:solid 1px rgb(255 255 255 / .1490196078);
   border-radius:20px;
   position:absolute;

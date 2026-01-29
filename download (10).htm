@@ -1096,6 +1096,18 @@
         justify-content: center;
       }
 
+      .services-header .sub-menu {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .services-header .sub-menu li,
+      .services-header .sub-menu .elementor-sub-item {
+        width: 100%;
+        display: block;
+      }
+
       @media (min-width: 1200px) {
         .closed-menu .elementor-nav-menu {
           min-width: 400px;
@@ -1176,6 +1188,39 @@
           font-size: 0.98rem;
         }
       }
+
+      .block { /* style for the :after overlay in prod */
+        place-self: center;
+        padding: 2px;
+        background: conic-gradient(
+          from var(--gradient-angle),
+          rgba(255, 255, 255, 0.1) 0deg,
+          rgba(255, 255, 255, 0.1) 60deg,
+          rgba(255, 255, 255, 0.9) 120deg,
+          rgba(255, 255, 255, 0.1) 180deg,
+          rgba(255, 255, 255, 0.1) 240deg,
+          rgba(255, 255, 255, 0.9) 300deg,
+          rgba(255, 255, 255, 0.1) 360deg
+        );
+        border-radius: 32px;
+        mask: conic-gradient(#000 0 0) content-box exclude, conic-gradient(#000 0 0);
+        animation: loading 4s linear infinite;
+      }
+
+      @property --gradient-angle {
+        syntax: "<angle>";
+        inherits: false;
+        initial-value: 0deg;
+      }
+
+      @keyframes loading {
+        0% {
+          --gradient-angle: 0deg;
+        }
+        100% {
+          --gradient-angle: 360deg;
+        }
+      }
     </style>
   </head>
   <body
@@ -1241,7 +1286,7 @@
                     >
                       <ul id="menu-1-ccc591d" class="elementor-nav-menu">
                         <li
-                          class="services services-header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2082"
+                          class="market-header activity menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2503"
                         >
                           <a
                             href="#"
@@ -1250,21 +1295,66 @@
                           >
                           <ul class="sub-menu elementor-nav-menu--dropdown">
                             <li
-                              class="apex menu-item menu-item-type-post_type menu-item-object-page menu-item-2093"
+                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"
                             >
                               <a
-                                href="https://www.equiduct.com/services/apex/"
+                                href="#/services"
                                 class="elementor-sub-item"
-                                >Apex</a
+                                >Experiential Marketing</a
                               >
                             </li>
                             <li
-                              class="market-data menu-item menu-item-type-post_type menu-item-object-page menu-item-2085"
+                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"
                             >
                               <a
-                                href="https://www.equiduct.com/services/market-data/"
+                                href="#/services"
                                 class="elementor-sub-item"
-                                >Market Data</a
+                                >Events & Conferences</a
+                              >
+                            </li>
+                            <li
+                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"
+                            >
+                              <a
+                                href="#/services"
+                                class="elementor-sub-item"
+                                >Digital & Immersive Technology</a
+                              >
+                            </li>
+                            <li
+                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"
+                            >
+                              <a
+                                href="#/services"
+                                class="elementor-sub-item"
+                                >AI-Powered Marketing</a
+                              >
+                            </li>
+                            <li
+                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"
+                            >
+                              <a
+                                href="#/services"
+                                class="elementor-sub-item"
+                                >Creative & Production</a
+                              >
+                            </li>
+                            <li
+                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"
+                            >
+                              <a
+                                href="#/services"
+                                class="elementor-sub-item"
+                                >Shopper & Retail Marketing</a
+                              >
+                            </li>
+                            <li
+                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"
+                            >
+                              <a
+                                href="#/services"
+                                class="elementor-sub-item"
+                                >Promotional Marketing</a
                               >
                             </li>
                           </ul>
@@ -1869,18 +1959,18 @@
                           </defs>
                         </svg>
                         <div class="pilar-1-container">
-                          <div class="pilar-1-wrapper">
-                            <img
-                              decoding="async"
-                              class="pilar-1"
-                              src="wp-content/uploads/2024/11/pilar-1.png"
-                            />
-                          </div>
                           <div class="pilar-2-wrapper">
                             <img
                               decoding="async"
                               class="pilar-2"
                               src="wp-content/uploads/2024/11/pilar-2.png"
+                            />
+                          </div>
+                          <div class="pilar-1-wrapper">
+                            <img
+                              decoding="async"
+                              class="pilar-1"
+                              src="wp-content/uploads/2024/11/pilar-1.png"
                             />
                           </div>
                         </div>
@@ -2038,239 +2128,6 @@
                             </span>
                           </a>
                         </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  class="elementor-element elementor-element-efa6d0a e-con-full e-flex e-con e-child"
-                  data-id="efa6d0a"
-                  data-element_type="container"
-                >
-                  <div
-                    class="elementor-element elementor-element-658a804 elementor-widget elementor-widget-shortcode"
-                    data-id="658a804"
-                    data-element_type="widget"
-                    data-widget_type="shortcode.default"
-                  >
-                    <div class="elementor-widget-container">
-                      <div class="elementor-shortcode">
-                        <div dir="rtl" class="swiper placeholder-swiper-2">
-                          <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                          </div>
-                        </div>
-                        <div class="swiper placeholder-swiper">
-                          <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                            <div class="swiper-slide">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2024/11/loader.gif"
-                                alt=""
-                              />
-                            </div>
-                          </div>
-                        </div>
-                        <div class="instrument-swiper">
-                          <div class="swiper-wrapper"></div>
-                        </div>
-                        <div class="instrument-swiper-reverse">
-                          <div class="swiper-wrapper"></div>
-                        </div>
-                        <script
-                          data-optimized="1"
-                          src="wp-content/litespeed/js/c473b10f4e4967a03f5ba60320d56d69.js?ver=56d69"
-                          defer
-                          data-deferred="1"
-                        ></script>
                       </div>
                     </div>
                   </div>
