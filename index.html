@@ -1235,6 +1235,65 @@
           --gradient-angle: 360deg;
         }
       }
+
+      .wwd-cards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 48px;
+        justify-content: center;
+        margin-top: 16px;
+      }
+
+      .wwd-card {
+        display: flex;
+        flex: 0 1 30%;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        max-width: 30%;
+        min-width: 260px;
+        padding: 28px 24px;
+        border-radius: 22px;
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.16);
+        box-shadow: 0 14px 32px rgba(0, 0, 0, 0.18);
+        backdrop-filter: blur(6px);
+      }
+
+      .wwd-card-icon {
+        width: 250px;
+        height: 250px;
+        object-fit: contain;
+        margin-bottom: 16px;
+      }
+
+      .wwd-card .elementor-heading-title {
+        margin: 0 0 12px;
+        font-size: 1.2rem;
+        line-height: 1.3;
+      }
+
+      .wwd-card .wwd-text-container {
+        margin: 0;
+        font-size: 1.1rem;
+        line-height: 1.55;
+        word-spacing: 0.2em;
+        word-break: break-word;
+      }
+
+      @media (max-width: 1024px) {
+        .wwd-card {
+          flex-basis: 45%;
+          max-width: 45%;
+        }
+      }
+
+      @media (max-width: 767px) {
+        .wwd-card {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
     </style>
   </head>
   <body
@@ -2219,7 +2278,7 @@
                   data-element_type="container"
                   data-settings='{"position":"absolute"}'
                 >
-                  <div class="e-con-inner">
+                  <div class="e-con-inner" style="padding-block-start: 100px;">
                     <div
                       class="elementor-element elementor-element-df1971c subtitle elementor-widget elementor-widget-heading"
                       data-id="df1971c"
@@ -2240,38 +2299,98 @@
                       data-widget_type="heading.default"
                     >
                       <div class="elementor-widget-container">
-                        <h4
-                          class="elementor-heading-title elementor-size-default"
-                        >
-                          Global expertise, local impact <br />
-                          <div class="wwd-text-container">
-                            We operate globally while delivering culturally relevant, market-specific experiences that
-resonate where it matters most—on the ground, with real consumers.
-                          </div>
-                        </h4>
-                      </div>
-                      <div class="elementor-widget-container">
-                        <h4
-                          class="elementor-heading-title elementor-size-default"
-                        >
-                        Experience-led, results-driven <br />
-                          <div class="wwd-text-container">
-                            We don’t create for attention alone. Every experiential, shopper, and promotional
-campaign is designed to influence behavior, drive conversion, and deliver measurable
-ROI.
-                          </div>
-                        </h4>
-                      </div>
-                      <div class="elementor-widget-container">
-                        <h4
-                          class="elementor-heading-title elementor-size-default"
-                        >
-                        Cutting-edge technology at the core <br />
-                          <div class="wwd-text-container">
-                            From data-led insights to immersive and interactive solutions, we leverage advanced
-technology to enhance engagement, optimize performance, and amplify impact.
-                          </div>
-                        </h4>
+                        <div class="wwd-cards">
+                          <article class="wwd-card">
+                            <img
+                              class="wwd-card-icon"
+                              src="wp-content/uploads/2024/11/why-1.png"
+                              alt="Global expertise, local impact"
+                              loading="lazy"
+                            />
+                            <h4 class="elementor-heading-title elementor-size-default">
+                              Global expertise, local impact
+                            </h4>
+                            <p class="wwd-text-container">
+                              We operate globally while delivering culturally relevant,
+                              market-specific experiences that resonate where it matters
+                              most — on the ground, with real consumers.
+                            </p>
+                          </article>
+                          <article class="wwd-card">
+                            <img
+                              class="wwd-card-icon"
+                              src="wp-content/uploads/2024/11/why-2.png"
+                              alt="Experience-led, results-driven"
+                              loading="lazy"
+                            />
+                            <h4 class="elementor-heading-title elementor-size-default">
+                              Experience-led, results-driven
+                            </h4>
+                            <p class="wwd-text-container">
+                              We don’t create for attention alone. Every experiential,
+                              shopper, and promotional campaign is designed to influence
+                              behavior, drive conversion, and deliver measurable ROI.
+                            </p>
+                          </article>
+                          <article class="wwd-card">
+                            <img
+                              class="wwd-card-icon"
+                              src="wp-content/uploads/2024/11/why-3.png"
+                              alt="Cutting-edge technology at the core"
+                              loading="lazy"
+                            />
+                            <h4 class="elementor-heading-title elementor-size-default">
+                              Cutting-edge technology <br> at the core
+                            </h4>
+                            <p class="wwd-text-container">
+                              From data-led insights to immersive and interactive
+                              solutions, we leverage advanced technology to enhance
+                              engagement, optimize performance, and amplify impact.
+                            </p>
+                          </article>
+                          <article class="wwd-card">
+                            <img
+                              class="wwd-card-icon"
+                              src="wp-content/uploads/2024/11/why-4.png"
+                              alt="Strategic creativity that performs"
+                              loading="lazy"
+                            />
+                            <h4 class="elementor-heading-title elementor-size-default">
+                              Strategic creativity that performs
+                            </h4>
+                            <p class="wwd-text-container">
+                              Our ideas are bold, but always purposeful. We blend creativity with strategic thinking to solve business challenges — not just win awards.
+                            </p>
+                          </article>
+                          <article class="wwd-card">
+                            <img
+                              class="wwd-card-icon"
+                              src="wp-content/uploads/2024/11/why-5.png"
+                              alt="Proven partnerships with leading brands"
+                              loading="lazy"
+                            />
+                            <h4 class="elementor-heading-title elementor-size-default">
+                              Proven partnerships with leading brands
+                            </h4>
+                            <p class="wwd-text-container">
+                              Trusted by top global clients, we act as an extension of our partners’ teams, delivering consistency, innovation, and excellence at scale.
+                            </p>
+                          </article>
+                          <article class="wwd-card">
+                            <img
+                              class="wwd-card-icon"
+                              src="wp-content/uploads/2024/11/why-6.png"
+                              alt="End-to-end execution"
+                              loading="lazy"
+                            />
+                            <h4 class="elementor-heading-title elementor-size-default">
+                              End-to-end execution
+                            </h4>
+                            <p class="wwd-text-container">
+                              From strategy and concept to flawless execution and reporting, Metaphor Media manages the entire journey — seamlessly and efficiently.
+                            </p>
+                          </article>
+                        </div>
                       </div>
                     </div>
                   </div>
