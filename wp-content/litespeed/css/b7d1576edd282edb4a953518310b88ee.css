@@ -1542,7 +1542,8 @@ body.rtl .e-con {
   height:100%
 }
 .e-con.e-con>.e-con-inner>.elementor-widget,.elementor.elementor .e-con>.elementor-widget {
-  max-width:100%
+  max-width:100%;
+  font-size: 22px;
 }
 .e-con .elementor-widget:not(:last-child) {
   --kit-widget-spacing:0px
