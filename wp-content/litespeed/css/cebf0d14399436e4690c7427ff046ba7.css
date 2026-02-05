@@ -548,23 +548,25 @@ b,strong
 }
 .subtitle .elementor-heading-title
 {
-  border:solid 1px #ffb533;
+  /* border:solid 1px #ffb533; */
   border-radius:15px;
-  padding:3px 20px;
-  padding-left:40px;
+  /* padding:3px 20px; */
+  /* padding-left:40px; */
+  color: #ffb533 !important;
   position:relative;
   transition:all 1s ease;
   box-shadow:0 4px 9.3px 0 #fff0
 }
 .subtitle .elementor-heading-title:after
 {
+  display: none;
   content:"";
   width:16px;
   height:16px;
   background:#ffb533;
   position:absolute;
   left:12px;
-  top:9px;
+  top:20px;
   border-radius:200px
 }
 @keyframes color-change
@@ -3746,7 +3748,7 @@ body:not(.home) .elementor-location-footer:after
 .hero .hero-breadcrumbs a,.hero .hero-breadcrumbs span
 {
   color:#ffb533;
-  font-size:12px;
+  font-size:15px;
   font-weight:700
 }
 .hero .hero-bg

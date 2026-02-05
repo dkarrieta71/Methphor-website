@@ -57,9 +57,10 @@
 }
 .elementor-562 .elementor-element.elementor-element-e81c04f .elementor-heading-title {
    font-family:"Avenir", Sans-serif;
-   font-size:65px;
+   font-size:50px;
    font-weight:700;
-   color:#FFF
+   line-height: 1.2em;
+   color:#FFF;
 }
 .elementor-widget-button .elementor-button {
    background-color:var(--e-global-color-accent);
@@ -108,8 +109,8 @@
 }
 .elementor-562 .elementor-element.elementor-element-8819c46 .elementor-heading-title {
    font-family:"Avenir", Sans-serif;
-   font-size:18px;
-   font-weight:400;
+   font-size:32px;
+   font-weight:600;
    color:var(--e-global-color-secondary)
 }
 .elementor-widget-text-editor {
