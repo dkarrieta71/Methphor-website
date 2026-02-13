@@ -28,7 +28,7 @@ b,strong
 }
 .card
 {
-  background-color:rgb(255 255 255 / .1);
+  background-color:#c680801f;
   border:1px solid rgb(255 255 255 / .15);
   box-shadow:0 4px 9px 0 rgb(0 0 0 / .05);
   -webkit-backdrop-filter:blur(2px);
@@ -59,7 +59,7 @@ b,strong
 {
   background-color:#fff0;
   border:1px solid rgb(255 255 255 / .4);
-  color:#fff;
+  color:#000000cc;
   border-radius:11px;
   padding:16px 20px;
   min-height:48px;
@@ -109,7 +109,7 @@ b,strong
 .gform-theme .gform_fields .gfield.gfield--type-consent .gform-field-label,.gform-theme .gform_fields .gfield.gfield--type-checkbox .gform-field-label
 {
   font-size:16px;
-  color:#FFF
+  color:#1f1f1f
 }
 .gform-theme .gform_fields .gfield.gfield--type-consent .gfield_required_text,.gform-theme .gform_fields .gfield.gfield--type-checkbox .gfield_required_text
 {
