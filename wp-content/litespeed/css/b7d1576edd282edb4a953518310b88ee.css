@@ -1861,7 +1861,7 @@ body.rtl .e-con {
   transition:all .3s
 }
 .elementor-button:focus,.elementor-button:hover,.elementor-button:visited {
-  color:#fff
+  color:#d9534f
 }
 .elementor-button-content-wrapper {
   display:flex;

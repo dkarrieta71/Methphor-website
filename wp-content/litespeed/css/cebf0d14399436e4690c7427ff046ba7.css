@@ -48,7 +48,7 @@ b,strong
 }
 .title-blue span
 {
-  color:#ffb533
+  color:#e54f40
 }
 .gform-theme .gform_fields
 {
@@ -548,11 +548,11 @@ b,strong
 }
 .subtitle .elementor-heading-title
 {
-  /* border:solid 1px #ffb533; */
+  /* border:solid 1px #e54f40; */
   border-radius:15px;
   /* padding:3px 20px; */
   /* padding-left:40px; */
-  color: #ffb533 !important;
+  color: #e54f40 !important;
   position:relative;
   transition:all 1s ease;
   box-shadow:0 4px 9.3px 0 #fff0
@@ -563,7 +563,7 @@ b,strong
   content:"";
   width:16px;
   height:16px;
-  background:#ffb533;
+  background:#e54f40;
   position:absolute;
   left:12px;
   top:20px;
@@ -573,7 +573,7 @@ b,strong
 {
   0%
   {
-    background:#ffb533
+    background:#e54f40
   }
   100%
   {
@@ -1443,25 +1443,25 @@ body:not(.elementor-editor-active) .md-line-container .md-line-images .md-line-i
 }
 .home-bg canvas#gradient-canvas
 {
-  --gradient-color-1:#8e1003;
-  --gradient-color-2:#b31e0c;
-  --gradient-color-3:#d12816;
-  --gradient-color-4:#e65e4d
+  --gradient-color-1:#f8fbff;
+  --gradient-color-2:#eef4ff;
+  --gradient-color-3:#e5eefb;
+  --gradient-color-4:#dbe7f7
 }
 .home-bg canvas#gradient-canvas-green
 {
-  --gradient-color-1:#4b0f1a;
-  --gradient-color-2:#681725;
-  --gradient-color-3:#842031;
-  --gradient-color-4:#9e2b3e;
+  --gradient-color-1:#f9fbff;
+  --gradient-color-2:#eff4ff;
+  --gradient-color-3:#e6eef9;
+  --gradient-color-4:#dde7f5;
   opacity:0
 }
 .home-bg canvas#gradient-canvas-magenta
 {
-  --gradient-color-1:#4a1a12;
-  --gradient-color-2:#6b2418;
-  --gradient-color-3:#8b3020;
-  --gradient-color-4:#a9402b;
+  --gradient-color-1:#f7fbff;
+  --gradient-color-2:#edf4ff;
+  --gradient-color-3:#e4edf9;
+  --gradient-color-4:#d9e5f4;
   opacity:0
 }
 .page-id-562 #smooth-content
@@ -2627,7 +2627,7 @@ body:not(.elementor-editor-active) .md-line-container .md-line-images .md-line-i
 }
 .elementor-widget-search .e-search-input:active,.elementor-widget-search .e-search-input:focus
 {
-  border-color:#ffb533!important
+  border-color:#e54f40!important
 }
 .elementor-widget-search .e-search-input::-webkit-input-placeholder
 {
@@ -2810,7 +2810,7 @@ body:not(.elementor-editor-active) .md-line-container .md-line-images .md-line-i
 .elementor-location-header .get-in-touch a
 {
   
-  border:2px solid #FFFFFF;
+  border:2px solid #e54f4000;
   border-radius:13px;
   font-weight:700!important;
   
@@ -2818,7 +2818,7 @@ body:not(.elementor-editor-active) .md-line-container .md-line-images .md-line-i
   transition:0.3s ease;
   gap:.2em;
   background-color:#fff0;
-  color:#FFFFFF!important
+  color:#000!important
 }
 .elementor-location-header .get-in-touch a:hover
 {
@@ -2942,7 +2942,7 @@ header:after
 }
 .elementor-location-header li a:hover
 {
-  color:#65d4d6!important
+  color:#e54f40!important
 }
 .elementor-location-header .elementor-sub-item.elementor-item-active
 {
@@ -3605,7 +3605,7 @@ body:not(.home) .elementor-location-footer:after
   border-radius:.611em;
   padding:.778em 1em;
   letter-spacing:1px;
-  border:1px solid rgb(255 255 255 / .15)
+  border:1px solid #d7d7d7
 }
 @media (max-width:1200px)
 {
@@ -3747,7 +3747,7 @@ body:not(.home) .elementor-location-footer:after
 }
 .hero .hero-breadcrumbs a,.hero .hero-breadcrumbs span
 {
-  color:#ffb533;
+  color:#e54f40;
   font-size:15px;
   font-weight:700
 }
@@ -4117,9 +4117,9 @@ body:not(.home) .elementor-location-footer:after
   -webkit-backdrop-filter:blur(3px);
   backdrop-filter:blur(3px);
   transition:none;
-  border-top:1px solid rgb(255 255 255 / .15);
-  border-left:1px solid rgb(255 255 255 / .15);
-  border-right:1px solid rgb(255 255 255 / .15);
+  border-top:1px solid #cacaca;
+  border-left:1px solid #cacaca;
+  border-right:1px solid #cacaca;
   overflow:hidden
 }
 .market-status-pinned::before
@@ -4187,8 +4187,8 @@ body:not(.home) .elementor-location-footer:after
   content:"";
   width:11px;
   height:11px;
-  border-bottom:solid 2px #fff;
-  border-right:solid 2px #fff;
+  border-bottom:solid 2px #000;
+  border-right:solid 2px #000;
   transform:rotate(var(--rotation));
   position:absolute;
   right:0;

@@ -1,7 +1,7 @@
 .elementor-kit-13{
   --e-global-color-primary:#7CFFEF;
   --e-global-color-secondary:#FFFFFF;
-  --e-global-color-text:#FFFFFF;
+  --e-global-color-text:#000000;
   --e-global-color-accent:#FFFFFF;
   --e-global-color-cd800ea:#45E180;
   --e-global-typography-primary-font-family:"Avenir";
@@ -26,7 +26,7 @@
   background-color:#FFBC7D
 }
 .elementor-kit-13 a{
-  color:var(--e-global-color-secondary);
+  color:#000000;
   font-family:"Greycliff CF", Sans-serif
 }
 .elementor-kit-13 h1{

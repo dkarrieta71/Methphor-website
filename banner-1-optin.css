@@ -23,7 +23,7 @@ input[type="checkbox"].cmplz-category:checked::before
   --cmplz_categories-height: 110px;
   --cmplz_title_font_size: 15px;
   --cmplz_text_line_height: calc(var(--cmplz_text_font_size) * 1.5);
-  --cmplz_text_color: #ffffff;
+  --cmplz_text_color: #000;
   --cmplz_hyperlink_color: #7cffea;
   --cmplz_text_font_size: 12px;
   --cmplz_link_font_size: 12px;
@@ -52,7 +52,7 @@ input[type="checkbox"].cmplz-category:checked::before
 {
   margin: unset;
   z-index: 9998;
-  color: var(--cmplz_text_color);
+  color: #000;
   background-color: var(--cmplz_banner_background_color);
   border-style: solid;
   border-color: var(--cmplz_banner_border_color);
@@ -239,7 +239,7 @@ input[type="checkbox"].cmplz-category:checked::before
   word-wrap: break-word;
   font-size: var(--cmplz_text_font_size);
   line-height: var(--cmplz_text_line_height);
-  color: var(--cmplz_text_color);
+  color: #000;
   margin-bottom: 5px;
 }
 .cmplz-cookiebanner .cmplz-message a
