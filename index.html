@@ -132,8 +132,8 @@
               "@type": "ImageObject",
               "inLanguage": "en-US",
               "@id": "https://www.equiduct.com/#/schema/logo/image/",
-              "url": "wp-content/uploads/2024/09/logo_white.png",
-              "contentUrl": "wp-content/uploads/2024/09/logo_white.png",
+              "url": "wp-content/uploads/2024/09/logo.png",
+              "contentUrl": "wp-content/uploads/2024/09/logo.png",
               "width": 230,
               "height": 65,
               "caption": "Equiduct"
@@ -812,6 +812,10 @@
       content="wp-content/uploads/2024/09/img-contact-us-pilar-3.png"
     />
     <style id="wp-custom-css">
+      :root {
+        --e-global-color-text: #000 !important;
+      }
+
       .sm-video-controls {
         position: fixed;
         bottom: 24px;
@@ -1182,7 +1186,7 @@
         font-weight: 600;
         letter-spacing: 0.2px;
         margin: 0 0 30px;
-        color: #e9f4f1;
+        color: #000;
       }
 
       .home-hero .hero-intro {
@@ -1191,7 +1195,7 @@
         line-height: 1.7;
         margin: 0 0 20px;
         max-width: 620px;
-        color: #e9f4f1;
+        color: #000;
       }
 
       @media (max-width: 767px) {
@@ -1322,7 +1326,7 @@
                 <img
                   width="230"
                   height="65"
-                  src="wp-content/uploads/2024/09/logo_white.png"
+                  src="wp-content/uploads/2024/09/logo.png"
                   class="attachment-full size-full wp-image-55"
                   alt=""
                 />
@@ -1339,6 +1343,7 @@
               data-id="e8bb35e"
               data-element_type="container"
               data-settings='{"background_background":"classic"}'
+              style="border-color: #cacaca!important;"
             >
               <div
                 class="elementor-element elementor-element-3fc5245 e-con-full e-flex e-con e-child"
@@ -2122,8 +2127,8 @@
                         <path
                           id="test2"
                           d="M-955 675.592C-907.833 610.259 -662.125 505.492 -436 600.592C-222 690.592 36 627.092 179.5 470.092C327.195 308.501 377.5 127.292 667 81.292C947 50.2918 996.968 243.025 1239.5 364.292C1510.5 499.792 1697.5 142.292 1842.5 50.2918C1958.5 -23.3082 2073.5 3.29178 2116.5 25.7918"
-                          stroke="#CBCBCB"
-                          stroke-opacity="0.4"
+                          stroke="#FF0000"
+                          stroke-opacity="0.5"
                           stroke-width="3"
                         />
                       </svg>
@@ -2994,7 +2999,7 @@
                       <img
                         width="230"
                         height="65"
-                        src="wp-content/uploads/2024/09/logo_white.png"
+                        src="wp-content/uploads/2024/09/logo.png"
                         class="attachment-large size-large wp-image-55"
                         alt=""
                       />
@@ -3014,7 +3019,7 @@
     </div>
     <div
       id="market-status-container"
-      style="min-width: 250px"
+      style="min-width: 250px; color: #000 !important;"
       class="market-status-pinned defcon4"
     >
       <span class="title">Campaign Status</span>
@@ -3027,7 +3032,7 @@
           <span
             id="market-status-color"
             class="market-status"
-            style="background: #fff"
+            style="background: #e54f40"
           ></span>
           <span id="market-market-name">Loading</span>
         </span>
@@ -3052,7 +3057,7 @@
     </div>
     <div class="responsive-menu">
       <div class="logo">
-        <img src="wp-content/uploads/2024/09/logo_white.png" alt="" />
+        <img src="wp-content/uploads/2024/09/logo.png" alt="" />
       </div>
       <div class="menu-burger-menu-container">
         <ul id="menu-burger-menu" class="menu">
@@ -3201,7 +3206,7 @@
         ]
       }
     </script>
-    <div id="cmplz-cookiebanner-container">
+    <div id="cmplz-cookiebanner-container" style="display: none !important;">
       <div
         class="cmplz-cookiebanner cmplz-hidden banner-1 optin cmplz-bottom-right cmplz-categories-type-no"
         aria-modal="true"

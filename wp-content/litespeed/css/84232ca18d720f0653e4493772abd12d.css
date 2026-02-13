@@ -63,7 +63,7 @@
   font-size:65px;
   font-weight:700;
   letter-spacing:-1px;
-  color:#ffb533
+  color:#e54f40
 }
 .elementor-widget-text-editor
 {
@@ -173,7 +173,7 @@ body.rtl .elementor-2 .elementor-element.elementor-element-8412e19
   font-family:"Avenir",Sans-serif;
   font-size:32px;
   font-weight:700;
-  color: #ffb533;
+  color: #e54f40;
   /* color:var(--e-global-color-secondary) */
 }
 .wwd-text-container {
@@ -183,7 +183,7 @@ body.rtl .elementor-2 .elementor-element.elementor-element-8412e19
     margin-top: 50px;
     text-align: center;
     line-height: 1.5;
-    color: white;
+    color: black;
 }
 .elementor-2 .elementor-element.elementor-element-ca7cd61
 {
